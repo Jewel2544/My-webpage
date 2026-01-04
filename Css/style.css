@@ -96,6 +96,7 @@ input {
     margin-left: 5px;
     color: white;
     border: 5px;
+    position: fixed;
 }
 input::placeholder {
     color: white;
