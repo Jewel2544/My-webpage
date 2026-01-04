@@ -1,0 +1,131 @@
+*{
+    background-color: rgb(129, 114, 152);
+    margin: 0px;
+
+
+}
+header{
+    margin-left: 0px;
+    background-size: cover;
+    font-size: 30px;
+    background-color: white;
+    background-position: center;
+}
+h1{
+    border: 10px solid rgb(137, 140, 133);
+    border-radius: 8px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+p{
+    background-color: darkblue;
+    margin-right: 700px;
+    font-size: 30px;
+    color: white;
+    border: 10px solid rgb(196, 174, 201);
+    border-radius: 8px;
+    margin-left: 5px;
+}
+.box strong{
+    background-color: white;
+    font-size: 25px;
+    border: 8px solid rgba(223, 144, 243, 0.659);
+    border-radius: 5px;
+    margin-left: 5px;
+
+}
+.box ul{
+    list-style-type: square;
+    font-size: 20px;
+    font-style:italic;
+    border: 10px solid ;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin-right: 700px;
+    margin-left: 5px;
+    font-size: 30px;
+}
+.li li{
+    background-color: blanchedalmond;
+
+
+}
+ul li::marker{
+    color:blue;
+    background-color: black;
+}
+.image {
+    background-color: burlywood;
+    border: 5px solid pink;
+    margin-left: 3px;
+}
+
+form { 
+    background-color: white;
+    margin-left: 8px;
+    margin-right: 700px;
+    border: 13px solid rgb(231, 164, 231);
+    border-radius: 10px;
+    background-image: url('picter/download.jpg');
+}
+h3 {
+    background-color: white;
+    font-size: 25px;
+    margin-right: 700px;
+    margin-left: 5px;
+    border: 7px solid wheat;
+    border-radius: 5px;
+}
+h2 {
+    background-color: white;
+    margin-right: 800px;
+    margin-left: 5px;
+    border: 9px solid rgb(230, 230, 172);
+    border-radius: 7px;
+}
+label {
+    background-color: initial;
+    margin-left: 5px;
+    color: white;
+
+}
+input { 
+    background-color: initial;
+    margin-left: 5px;
+    color: white;
+    border: 5px;
+}
+input::placeholder {
+    color: white;
+}
+select { 
+    background-color: initial;
+    margin-left: 5px;
+    color: white;
+}
+#btn {
+    background-color: pink;
+    margin-left: 80px;
+}
+#fill {
+  color: black;
+  font-size: 30px;
+}
+.a {
+    color: white;
+    font-size: 25px;
+}
+#read-more {
+    font-size: 30px;
+    background-color: darkslategrey;
+    color: white;
+    position: absolute;
+   margin-left: 550px;
+
+
+}
+em {
+    font-size: 20px;
+}
